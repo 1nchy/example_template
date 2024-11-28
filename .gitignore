@@ -10,4 +10,7 @@
 !/src
 !/src/*
 
+!/cmake
+!/cmake/*
+
 !main.cpp
